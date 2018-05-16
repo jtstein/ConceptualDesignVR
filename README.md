@@ -1,5 +1,3 @@
-# ConceptVR
-
 ![Settings Window](https://raw.github.com/jtstein/ConceptualDesignVR/master/CVRlogo.jpg)
 
 Conceptual  Design  VR  is  a  Unity  application  that  integrates  rapid-prototyping  within  a  shared  virtual-environment.  This  allows  the  users  to  creatively  collaborate  through  the  design  process  of  three  dimensional  modeling.  Leap  Motion  technology  enables  a  controller  free  experience  by  tracking  the  user’s  hands  in  real  time,  and  translating  their  movements  and  gestures  inside  the  virtual  reality  space.  By  networking  the  users  into  a  three  dimensional  environment,  we  have  removed  the  constraints  of  the  traditional  two  dimensional  modeling  applications.  This  allows  the  users  to  precisely  modify  their  designs. 
