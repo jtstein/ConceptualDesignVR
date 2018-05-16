@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptVR", "ConceptVR.csproj", "{F27BDFD9-4081-07E6-47C0-39F904A9B6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptVR.Editor", "ConceptVR.Editor.csproj", "{760899AB-6FBC-5D23-1262-9D629D84A954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27BDFD9-4081-07E6-47C0-39F904A9B6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27BDFD9-4081-07E6-47C0-39F904A9B6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27BDFD9-4081-07E6-47C0-39F904A9B6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27BDFD9-4081-07E6-47C0-39F904A9B6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760899AB-6FBC-5D23-1262-9D629D84A954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760899AB-6FBC-5D23-1262-9D629D84A954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760899AB-6FBC-5D23-1262-9D629D84A954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760899AB-6FBC-5D23-1262-9D629D84A954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
